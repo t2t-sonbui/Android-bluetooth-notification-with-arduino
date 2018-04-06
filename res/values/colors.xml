@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Material Light_Blue Primary -->
+    <color name="color_light_blue_500">#0277bd</color>
+    <color name="color_light_blue_100">#b9e1f8</color>
+    <color name="color_light_blue_700">#1687ca</color>
+
+    <!-- Material Orange Accent -->
+    <color name="color_orange_A200">#ff9800</color>
+    <color name="color_orange_A100">#ffd180</color>
+    <color name="color_orange_A400">#ff9100</color>
+    <color name="primary_color">@color/color_light_blue_500</color>
+    <color name="primary_color_light">@color/color_light_blue_100</color>
+    <color name="primary_color_dark">@color/color_light_blue_700</color>
+    <color name="accent_color">@color/color_orange_A200</color>
+    <color name="accent_color_light">@color/color_orange_A100</color>
+    <color name="accent_color_dark">@color/color_orange_A400</color>
+    <color name="windowBackgroundColor">@color/background_material_light</color>
+    <color name="black_translucent">#80000000</color>
+    <!-- Text Colors -->
+    <color name="hints">#b8b8b8</color>
+    <color name="secondary">#727272</color>
+    <color name="text">#212121</color>
+    <!-- Control Colors -->
+    <color name="divider">#6E7685</color>
+    <color name="active">#FD2626</color>
+    <color name="deactive">#6E7685</color>
+
+</resources>
